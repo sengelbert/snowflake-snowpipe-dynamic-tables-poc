@@ -1,1 +1,0 @@
-# snowflake-snowpipe-dynamic-tables-poc
